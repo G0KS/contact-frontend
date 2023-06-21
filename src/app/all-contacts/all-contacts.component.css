@@ -1,0 +1,9 @@
+.contactImage {
+    width: 100px;
+    height: 120px;
+}
+
+.contactDetails span{
+    font-weight: 700;
+    font-size: 18px;
+}
